@@ -118,11 +118,7 @@ button:hover{
         padding: 40px 0px 60px;
     }
     input, button{
-        padding: 17px 50px;
-        margin-bottom: 18px;
-        border: 1px solid #efefef;
-        border-radius: 8px;
-        font-weight: 600;
+        padding: 20px 20px;
     }
     form p{
         text-align: center;
