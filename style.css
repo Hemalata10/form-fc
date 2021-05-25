@@ -117,7 +117,7 @@ button:hover{
         text-align: center;
         padding: 40px 0px 60px;
     }
-    input{
+    input, button{
         padding: 10px 20px;
         border-radius: 8px;
     }
