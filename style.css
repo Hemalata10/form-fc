@@ -117,14 +117,12 @@ button:hover{
         text-align: center;
         padding: 40px 0px 60px;
     }
-    #form{
-        width: 90%;
-        background-color: #fff;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 35px;
+    input, button{
+        padding: 17px 50px;
+        margin-bottom: 18px;
+        border: 1px solid #efefef;
         border-radius: 8px;
+        font-weight: 600;
     }
     form p{
         text-align: center;
