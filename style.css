@@ -74,6 +74,7 @@ input, button{
     border: 1px solid #efefef;
     border-radius: 8px;
     font-weight: 600;
+
 }
 button{
     text-transform: uppercase;
@@ -97,7 +98,7 @@ button:hover{
     opacity: 0.8;
 }
 
-@media screen and (max-width:375px){
+@media (max-width:768px){
     main{
         padding: 40px 20px;
         flex-direction: column;
