@@ -127,8 +127,4 @@ button:hover{
     .head{
         padding: 15px 60px;
     }
-    input, button{
-        padding: 5px 10px;
-        border-radius: 8px;
-    }
 }
